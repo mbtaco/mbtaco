@@ -1,6 +1,6 @@
-# 🌮 mbtaco
+# 🌮 taco
 
-**Hi there! I’m mbtaco — and I eat tacos.**
+**Hi there! I’m taco — and I eat tacos.**
 
 ## About Me
 - 🌮 Taco enthusiast.
