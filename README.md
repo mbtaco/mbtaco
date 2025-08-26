@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌮 mbtaco
 
-<!--
-**mbtaco/mbtaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there! I’m mbtaco — and I eat tacos.**
 
-Here are some ideas to get you started:
+## About Me
+- 🌮 Taco enthusiast.
+- 🕵️ Mysterious coder (maybe).
+- 😄 Always bringing flavor wherever I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+> If there’s a taco, you can bet I’ll eat it.
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbtaco&show_icons=true&theme=dracula)
+
+## Connect
+- Want to talk tacos or code? Open an issue or drop a star!
+
+---
+
+*Powered by tacos.*
